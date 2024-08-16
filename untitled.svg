@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<svg width="1121.8" height="533.9" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" data-name="Layer 1">
+ <defs>
+  <style>.cls-1 {
+        fill: #1a1a1a;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #141414;
+      }
+
+      .cls-4 {
+        fill: #0f0f0f;
+      }
+
+      .cls-5 {
+        isolation: isolate;
+      }
+
+      .cls-6 {
+        fill: #fcee21;
+      }
+
+      .cls-7 {
+        fill: #40e2a0;
+      }
+
+      .cls-8 {
+        fill: #0071bc;
+      }
+
+      .cls-9 {
+        fill: #ff69f8;
+      }
+
+      .cls-10 {
+        fill: #39b54a;
+      }
+
+      .cls-11 {
+        fill: #7cb2e8;
+      }
+
+      .cls-12 {
+        fill: #c1272d;
+      }
+
+      .cls-13 {
+        fill: #f66;
+      }</style>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="svg_1">
+   <g id="svg_2">
+    <circle cx="565.8" cy="192.5" id="svg_3" r="72"/>
+    <circle class="cls-1" cx="565.8" cy="192.5" id="svg_4" r="61.7"/>
+   </g>
+   <g id="svg_5">
+    <circle cx="720.8" cy="126.5" id="svg_6" r="72"/>
+    <circle class="cls-1" cx="720.8" cy="126.5" id="svg_7" r="61.7"/>
+   </g>
+   <g id="svg_8">
+    <circle cx="888.8" cy="154.5" id="svg_9" r="72"/>
+    <circle class="cls-1" cx="888.8" cy="154.5" id="svg_10" r="61.7"/>
+   </g>
+   <g id="svg_11">
+    <circle cx="1049.8" cy="225.5" id="svg_12" r="72"/>
+    <circle class="cls-1" cx="1049.8" cy="225.5" id="svg_13" r="61.7" transform="translate(645.58 1220.25) rotate(-80.01)"/>
+   </g>
+   <g id="svg_14">
+    <circle cx="1018.8" cy="407.5" id="svg_15" r="72" transform="translate(453.37 1347.87) rotate(-80.78)"/>
+    <circle class="cls-1" cx="1018.8" cy="407.5" id="svg_16" r="61.7"/>
+   </g>
+   <g id="svg_17">
+    <circle cx="857.8" cy="336.5" id="svg_18" r="72"/>
+    <circle class="cls-1" cx="857.8" cy="336.5" id="svg_19" r="61.7"/>
+   </g>
+   <g id="svg_20">
+    <circle cx="688.8" cy="308.5" id="svg_21" r="72"/>
+    <circle class="cls-1" cx="688.8" cy="308.5" id="svg_22" r="61.7"/>
+   </g>
+   <g id="svg_23">
+    <circle cx="532.8" cy="373.5" id="svg_24" r="72"/>
+    <circle class="cls-1" cx="532.8" cy="373.5" id="svg_25" r="61.7"/>
+   </g>
+  </g>
+  <circle cx="303.8" cy="308.5" id="svg_26" r="57"/>
+ </g>
+</svg>
